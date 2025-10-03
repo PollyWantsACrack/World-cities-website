@@ -1,2 +1,14 @@
 # World-cities-website
-My demo of website done with html,css,js
+My webiste of cities in world. 
+
+Features:
+- Navigation bar
+- Image gallery
+- Buttons with links to sub-sides
+- Two subsides
+- Return buttons
+- Styling with CSS
+- Form and handling
+- Google map
+- Youtube video
+- Music
